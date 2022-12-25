@@ -19,8 +19,7 @@ if __name__ == '__main__':
     default_files = [
         'test',
         'input',
-        'main.py',
-        'README.md'
+        'main.py'
     ]
 
     if not os.path.exists(new_dir):
